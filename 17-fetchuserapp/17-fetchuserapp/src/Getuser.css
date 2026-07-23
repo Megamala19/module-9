@@ -1,0 +1,15 @@
+.user-card {
+  max-width: 260px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.user-card img {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+}
